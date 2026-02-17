@@ -95,9 +95,6 @@ body {
   cursor: pointer;
   color: #ff4d6d;
 }
-h2 {
-  font-family: 'Allura';
-}
 
 #closeBtn:hover {
   transform: scale(1.2);
@@ -105,10 +102,12 @@ h2 {
 
 #secretMessage h2 {
   color: #ff4d6d;
+  font-family: 'Allura';
 }
 
 #secretMessage p {
   font-size: 18px;
+  font-family: 'Cedarville Cursive';
   color: #444;
 }
 
@@ -116,4 +115,5 @@ h2 {
   from { opacity: 0; transform: translate(-50%, -60%); }
   to { opacity: 1; transform: translate(-50%, -50%); }
 }
+
 
