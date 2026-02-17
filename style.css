@@ -95,7 +95,7 @@ body {
   cursor: pointer;
   color: #ff4d6d;
 }
-h2{
+h2 {
   font-family: 'Allura';
 }
 
@@ -116,5 +116,4 @@ h2{
   from { opacity: 0; transform: translate(-50%, -60%); }
   to { opacity: 1; transform: translate(-50%, -50%); }
 }
-
 
