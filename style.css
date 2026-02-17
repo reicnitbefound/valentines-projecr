@@ -95,7 +95,8 @@ body {
   cursor: pointer;
   color: #ff4d6d;
 }
-
+h2{
+  font-family: 'Allura';
 #closeBtn:hover {
   transform: scale(1.2);
 }
@@ -113,3 +114,4 @@ body {
   from { opacity: 0; transform: translate(-50%, -60%); }
   to { opacity: 1; transform: translate(-50%, -50%); }
 }
+
